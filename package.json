@@ -1,0 +1,38 @@
+{
+  "name": "@koho/claudy",
+  "version": "1.0.0",
+  "description": "Claude Code Workspace Manager - Launch Claude with pre-configured workspaces",
+  "bin": {
+    "claudy": "./src/index.ts"
+  },
+  "scripts": {
+    "dev": "bun run src/index.ts"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "workspace",
+    "cli",
+    "bun",
+    "anthropic"
+  ],
+  "license": "MIT",
+  "author": "Koho Zheng <koho.jung@outlook.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kohoj/claudy.git"
+  },
+  "homepage": "https://github.com/kohoj/claudy#readme",
+  "bugs": {
+    "url": "https://github.com/kohoj/claudy/issues"
+  },
+  "dependencies": {
+    "bun-promptx": "^0.2.0"
+  },
+  "engines": {
+    "bun": ">=1.0.0"
+  },
+  "files": [
+    "src"
+  ]
+}

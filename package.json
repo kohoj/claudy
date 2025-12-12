@@ -1,5 +1,5 @@
 {
-  "name": "@koho/claudy",
+  "name": "@kohoz/claudy",
   "version": "1.0.0",
   "description": "Claude Code Workspace Manager - Launch Claude with pre-configured workspaces",
   "bin": {

@@ -24,7 +24,7 @@ Claude Code Workspace Manager - Launch Claude with pre-configured workspaces.
 ## Installation
 
 ```bash
-bun add -g @koho/claudy
+bun add -g @kohoz/claudy
 ```
 
 ## Usage

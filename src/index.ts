@@ -9,7 +9,7 @@ import { join, basename, resolve } from "path";
 // Claudy - Claude Code Workspace Manager
 // ═══════════════════════════════════════════════════════════════
 
-const VERSION = "1.0.0";
+const VERSION = "1.0.1";
 
 interface Workspace {
   name: string;

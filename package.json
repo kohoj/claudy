@@ -1,6 +1,6 @@
 {
   "name": "@kohoz/claudy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Claude Code Workspace Manager - Launch Claude with pre-configured workspaces",
   "bin": {
     "claudy": "./src/index.ts"
